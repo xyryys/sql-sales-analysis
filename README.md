@@ -1,4 +1,4 @@
-"# SQL Sales Analysis" 
+# SQL Sales Analysis
 
 sql-sales-analysis/
 ├── data/          (raw CSV files; small ones only)
